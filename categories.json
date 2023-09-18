@@ -2,7 +2,7 @@
     "myBudget": [
         {
             "title": "Rent",
-            "budget": 35
+            "budget": 40
         },
         {
             "title": "Grocery",
@@ -10,7 +10,7 @@
         },
         {
             "title": "NetworkBill",
-            "budget": 10
+            "budget": 50
         },
         {
             "title": "Cafehopping",
@@ -27,7 +27,7 @@
         },
         {
             "title": "Starbucks",
-            "budget": 10
+            "budget": 45
         }
 
 
