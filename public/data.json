@@ -1,0 +1,36 @@
+{
+    "myBudget": [
+        {
+            "title": "Rent",
+            "budget": 35
+        },
+        {
+            "title": "Grocery",
+            "budget": 15
+        },
+        {
+            "title": "NetworkBill",
+            "budget": 10
+        },
+        {
+            "title": "Cafehopping",
+            "budget": 10
+        },
+        {
+            "title": "Shopping",
+            "budget": 10
+
+        },
+        {
+            "title": "CarFuel",
+            "budget": 10
+        },
+        {
+            "title": "Starbucks",
+            "budget": 10
+        }
+
+
+
+    ]
+}

@@ -96,3 +96,23 @@ header.hero h2 {
         margin: 10px;
     }
 }
+footer.bottom {
+    background-color: #333; 
+    color: #fff; 
+    padding: 20px; 
+    text-align: center; 
+}
+footer.bottom div.center {
+    font-size: 14px; 
+}
+footer.bottom div.center::before {
+    content: "\00a9"; 
+    margin-right: 5px; 
+}
+a:focus, button:focus {
+    outline: 2px solid #4d5791; 
+}
+input:focus, textarea:focus, select:focus {
+    outline: 2px solid #4d5791; 
+}
+
